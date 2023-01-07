@@ -7,6 +7,7 @@
   <img src="https://img.shields.io/badge/CSS3-blue?style=flat&logo=CSS3&logoColor=1572B6">
   <img src="https://img.shields.io/badge/JavaScript-gray?style=flat&logo=JavaScript&logoColor=F7DF1E">
   <img src="https://img.shields.io/badge/jQuery-blue?style=flat&logo=jQuery&logoColor=0769AD">
+<br>
   <img src="https://img.shields.io/badge/Oracle-white?style=flat&logo=Oracle&logoColor=F80000">
   <img src="https://img.shields.io/badge/MySQL-black?style=flat&logo=MySQL&logoColor=4479A1">
 <br>

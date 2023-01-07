@@ -13,8 +13,10 @@
   <img src="https://img.shields.io/badge/Eclipse IDE-darkblue?style=flat&logo=Eclipse IDE&logoColor=2C2255">
   <img src="https://img.shields.io/badge/IntelliJ IDEA-white?style=flat&logo=IntelliJ IDEA&logoColor=000000">
   <img src="https://img.shields.io/badge/Visual Studio Code-blue?style=flat&logo=Visual Studio Code&logoColor=007ACC">
+<br>
   <img src="https://img.shields.io/badge/Git-red?style=flat&logo=Git&logoColor=F05032">
   <img src="https://img.shields.io/badge/GitLab-blue?style=flat&logo=GitLab&logoColor=FC6D26">
   <img src="https://img.shields.io/badge/GitHib-white?style=flat&logo=GitHub&logoColor=181717">
   <img src="https://img.shields.io/badge/Postman-orange?style=flat&logo=Postman&logoColor=FF6C37">
+  <img src="https://img.shields.io/badge/Notion-white?style=flat&logo=Notion&logoColor=000000">
 </div>

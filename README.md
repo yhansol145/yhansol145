@@ -8,15 +8,12 @@
   <img src="https://img.shields.io/badge/JavaScript-gray?style=flat&logo=JavaScript&logoColor=F7DF1E">
   <img src="https://img.shields.io/badge/jQuery-blue?style=flat&logo=jQuery&logoColor=0769AD">
 <br>
-<br>
   <img src="https://img.shields.io/badge/Oracle-white?style=flat&logo=Oracle&logoColor=F80000">
   <img src="https://img.shields.io/badge/MySQL-black?style=flat&logo=MySQL&logoColor=4479A1">
-<br>
 <br>
   <img src="https://img.shields.io/badge/Eclipse IDE-darkblue?style=flat&logo=Eclipse IDE&logoColor=2C2255">
   <img src="https://img.shields.io/badge/IntelliJ IDEA-white?style=flat&logo=IntelliJ IDEA&logoColor=000000">
   <img src="https://img.shields.io/badge/Visual Studio Code-blue?style=flat&logo=Visual Studio Code&logoColor=007ACC">
-<br>
 <br>
   <img src="https://img.shields.io/badge/Git-red?style=flat&logo=Git&logoColor=F05032">
   <img src="https://img.shields.io/badge/GitLab-blue?style=flat&logo=GitLab&logoColor=FC6D26">

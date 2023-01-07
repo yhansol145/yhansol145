@@ -1,13 +1,4 @@
-<div align = center>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yhansol145&show_icons=true&theme=tokyonight)
-</div>
 
-<div align = center>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yhansol145&layout=compact&theme=tokyonight)
-</div>
-  
-
-#
 
 <div align = center> <h1>📚 STACKS </h1></div>
 
@@ -32,3 +23,7 @@
   <img src="https://img.shields.io/badge/Postman-orange?style=flat&logo=Postman&logoColor=FF6C37">
   <img src="https://img.shields.io/badge/Notion-white?style=flat&logo=Notion&logoColor=000000">
 </div>
+
+#
+
+![K-Junyyy's GitHub stats](https://github-readme-stats.vercel.app/api?username=yhansol145&show_icons=true&theme=tokyonight) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yhansol145&layout=compact&theme=tokyonight)

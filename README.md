@@ -8,6 +8,8 @@
   <img src="https://img.shields.io/badge/HTML5-darkred?style=flat&logo=HTML5&logoColor=E34F26">
   <img src="https://img.shields.io/badge/CSS3-darkblue?style=flat&logo=CSS3&logoColor=1572B6">
   <img src="https://img.shields.io/badge/JavaScript-gray?style=flat&logo=JavaScript&logoColor=F7DF1E">
+  <img src="https://img.shields.io/badge/node.js-green?style=flat&logo=Node.js&logoColor=339933">
+  
   <img src="https://img.shields.io/badge/jQuery-white?style=flat&logo=jQuery&logoColor=0769AD">
 <br>
   <img src="https://img.shields.io/badge/Oracle-white?style=flat&logo=Oracle&logoColor=F80000">

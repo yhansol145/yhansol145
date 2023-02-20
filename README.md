@@ -26,5 +26,8 @@
 
 #
 
-<div align=center><a href="https://yhansol.notion.site/9327edad3e20490ab6f3eb47f6172757">Profile</a></div>
+<div align=center>
+  <a href="https://yhansol.notion.site/9327edad3e20490ab6f3eb47f6172757">Profile</a> &nbsp
+  <a href="https://godsolnote.tistory.com/">Blog</a>
+</div>
 
